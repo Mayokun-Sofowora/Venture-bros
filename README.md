@@ -66,8 +66,10 @@ While the current game is functional, there are many ways to improve the game wi
 
 - **C++ Optimization**: Migrating the game to C++ could provide better performance, especially for complex logic and real-time rendering. We plan to rewrite the core game mechanics in C++ to enhance speed and reduce latency.
 - **Enhanced Graphics**: With C++, we can utilize powerful libraries like **SFML** or **SDL** to create more sophisticated 2D and 3D graphics for a richer experience.
-- **AI Opponents**: Implement intelligent AI players to challenge users in different levels.
-- **Multiplayer Support**: Add multiplayer functionality to allow users to compete with each other online.
+- **More Worlds and Levels**: Add new worlds with unique environments and challenges.
+- **Power-ups**: Introduce additional power-ups, such as speed boosts and invincibility.
+- **Customizable Characters**: Add options to customize characters and abilities.
+- **Improved Scoreboard**: Implement online leaderboards to track global scores.
 
 ## License
 
