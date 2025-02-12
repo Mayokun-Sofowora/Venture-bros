@@ -5,9 +5,9 @@
 ## Features
 
 - **Start Screen**: A welcoming start screen to begin your adventure.
-- **Game Over Screen**: A clear indication when the game ends.
+- **Game Over Screen**: A clear indication of when the game ends.
 - **Victory Screen**: Displays a success message when you win.
-- **World Levels**: Navigate through different stages with varying difficulty.
+- **World Levels**: Navigate through different stages with varying difficulty, although this current implementation only has one world and level.
 - **Leaderboard**: Track your performance and see how you rank among other players.
 
 ## Screenshots
