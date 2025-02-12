@@ -68,8 +68,8 @@ While the current game is functional, there are many ways to improve the game wi
 - **Enhanced Graphics**: With C++, we can utilize powerful libraries like **SFML** or **SDL** to create more sophisticated 2D and 3D graphics for a richer experience.
 - **More Worlds and Levels**: Add new worlds with unique environments and challenges.
 - **Power-ups**: Introduce additional power-ups, such as speed boosts and invincibility.
-- **Customizable Characters**: Add options to customize characters and abilities.
 - **Improved Scoreboard**: Implement online leaderboards to track global scores.
+- **Customizable Characters**: Add options to customize or change characters.
 
 ## License
 
