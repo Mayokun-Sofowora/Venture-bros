@@ -25,7 +25,7 @@
 ![World Level](https://github.com/user-attachments/assets/8d5abc45-3b17-479b-817d-1f89c6c569fd)
 
 ### Leaderboard
-![Leaderboard](https://github.com/user-attachments/assets/83a21376-64aa-4324-88bf-f2acabdc394e)
+![Leaderboard](https://github.com/user-attachments/assets/0695c40e-61cb-43f4-b862-1fac43a62244)
 
 ## Setup & Installation
 
